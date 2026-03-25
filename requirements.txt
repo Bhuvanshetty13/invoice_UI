@@ -1,6 +1,6 @@
 altair
 streamlit==1.31.0
-pillow==10.2.0
+pillow==10.3.0
 pandas==2.2.0
 requests==2.31.0
 pdf2image==1.17.0
